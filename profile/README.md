@@ -1,12 +1,16 @@
-## Hi there 👋
+### Hey!
+Here is where things currently stand on the **[Kingdom Event]**:
 
-<!--
+### Current Status
+* **Project:** [Kingdom Event]
+* **Target Date:** [December 19th]
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 📂 Active Repositories
+> **Status Key:** 🟢 Finished &nbsp;|&nbsp; 🟡 In Progress &nbsp;|&nbsp; ⚪ Not Started
+* 🟡 **[Death Ban](https://github.com/MCOasisDevelopment/DeathBan)**
+* 🟢 **[Chat Popup](https://github.com/MCOasisDevelopment/ChatPopup)**
+* 🟡 **[Staff Assistance](https://github.com/MCOasisDevelopment/StaffAssistance)**
+* 🟡 **[Limited Features](https://github.com/MCOasisDevelopment/LimitedFeatures)**
+* ⚪ **[Proximity Chat](https://github.com/MCOasisDevelopment/ProximityChat)**
+* ⚪ **[Kingdom Teleport](https://github.com/MCOasisDevelopment/KingdomTeleportation)**
+* ⚪ **[World Guard Map Protection](https://github.com/MCOasisDevelopment/WorldGuardMapProtection)**
